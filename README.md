@@ -2,7 +2,6 @@
 
 The purpose of this exercise is to train you to use simple loops and conditional statements.
 
-Estimated workload of this exercise is _20 min_.
 
 ### Description
 
